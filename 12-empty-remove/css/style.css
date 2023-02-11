@@ -1,0 +1,10 @@
+@charset "utf-8";
+
+.demo{
+    width: 50%;
+    height: 30vh;
+    margin: 100px auto;
+    border: 5px solid red;
+}
+
+
